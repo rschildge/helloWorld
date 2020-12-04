@@ -1,3 +1,2 @@
-# helloWorld
-First Git Repo
-This is some changes from the readme-edits branch. 
+# Advent of Code 2020
+Here are my nutty solutions. I wish I knew regex and streams!
